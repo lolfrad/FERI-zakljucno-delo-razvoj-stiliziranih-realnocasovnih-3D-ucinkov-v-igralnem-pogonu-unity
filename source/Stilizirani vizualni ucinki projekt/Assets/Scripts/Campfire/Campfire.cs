@@ -17,9 +17,10 @@ public class Campfire : MonoBehaviour
 
     private int lastFireIndex = 0;
 
+
     private void Start()
     {
-        //populate list
+        //populate list with fire objects
         for (int i = 0; i < firesAmount; i++)
         {
             GameObject fireObj = Instantiate(firePrefab, new Vector3(0,500,0), Quaternion.identity) as GameObject;  //spawn it out of view
@@ -35,6 +36,8 @@ public class Campfire : MonoBehaviour
 
     private IEnumerator SpawnFire()
     {
+        //uses object pooling for fire gameobjects looping through the list
+        //spawn a fire object at base, wait for the specified time and spawn next one
         fires[lastFireIndex].Play("FirePoofAnim");
         updateFireIndex();
 
@@ -45,6 +48,7 @@ public class Campfire : MonoBehaviour
 
     private void updateFireIndex()
     {
+        //loops objects
         lastFireIndex++;
         if (lastFireIndex >= fires.Count)
             lastFireIndex = 0;

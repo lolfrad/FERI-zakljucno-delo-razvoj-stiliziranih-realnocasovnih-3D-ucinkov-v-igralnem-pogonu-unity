@@ -15,15 +15,18 @@ public class Explosion : MonoBehaviour
 
     public void Explode()
     {
+        //disable all lights
         foreach (GameObject light in lights)
         {
             light.SetActive(false);
         }
 
+        //find all gameobjects that with colliders
         Collider[] colliders = Physics.OverlapSphere(explosionCenter.transform.position, radius);
 
         foreach (Collider fragment in colliders)
         {
+            //if the object has a rigidbody, set it to non kinematic and add explosion force to it
             Rigidbody rigid = fragment.GetComponent<Rigidbody>();
 
             if (rigid != null)
