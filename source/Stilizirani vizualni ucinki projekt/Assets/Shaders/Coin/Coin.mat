@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Coin
+  m_Shader: {fileID: -6465566751694194690, guid: 678949b672d469b4680cea154d0a7d47,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_40C686A6: 0.75
+    - Vector1_495244B8: 10
+    - Vector1_7C36AD73: 0
+    - Vector1_84E7FB6: 1
+    - Vector1_865992E3: 0.5
+    - Vector1_D8EAE289: 0.9
+    m_Colors:
+    - Color_76850D53: {r: 0.7490196, g: 0.05882353, b: 0, a: 0}
+    - Color_83BBDD31: {r: 1.4980392, g: 0.6117647, b: 0, a: 0}
+    - Color_9F036FD2: {r: 0.7490196, g: 0.42352942, b: 0, a: 0}
+  m_BuildTextureStacks: []

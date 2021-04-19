@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Foam skirt
+  m_Shader: {fileID: -6465566751694194690, guid: 28f2edb26df6e0145b8dea0428c51c24,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_E7699568:
+        m_Texture: {fileID: 2800000, guid: 1cba8e7cbac65e44791bd9fac74c4cf4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5BC1B7F9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 126f4971cce6a9e4182837f3e9ecf75c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_58A71831: -0.4
+    - Vector1_6688C790: 4
+    - Vector1_818BA967: 1
+    - Vector1_AD593887: 5
+    - Vector1_E993F079: 1
+    - Vector1_F91AC84E: 0.9
+    m_Colors:
+    - Vector2_52882862: {r: 0.6, g: 1, b: 0, a: 0}
+    - Vector2_8223C595: {r: 2, g: 2, b: 0, a: 0}
+  m_BuildTextureStacks: []

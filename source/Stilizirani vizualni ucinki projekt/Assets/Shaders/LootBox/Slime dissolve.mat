@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Slime dissolve
+  m_Shader: {fileID: -6465566751694194690, guid: 7faf254be85016c4dbb8248f9e360205,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_103CC801: 502.7
+    - Vector1_12C5689B: 0.119
+    - Vector1_265A63C4: 0.87
+    - Vector1_31751371: 20
+    - Vector1_364381F1: 0
+    - Vector1_C53200DA: 1.1
+    - Vector1_F9203BC5: 0.527
+    m_Colors:
+    - Color_856546E4: {r: 0, g: 0.35501736, b: 0.57547164, a: 1}
+    - Color_A7751108: {r: 0.95499635, g: 3.315459, b: 4.0902677, a: 1}

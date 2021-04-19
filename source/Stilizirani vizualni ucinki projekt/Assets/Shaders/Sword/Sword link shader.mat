@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sword link shader
+  m_Shader: {fileID: -6465566751694194690, guid: e0c58bd06c099fc4b98847e0d44b2986,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_46491E48: 1
+    - Vector1_B3FFD7FD: 20
+    - Vector1_E7AB1BE1: 0.5
+    m_Colors:
+    - Color_BC1211E2: {r: 0, g: 1012.0572, b: 895.48517, a: 0}
+    - Vector2_957196CD: {r: -0.01, g: 0.05, b: 0.01, a: 0}
+  m_BuildTextureStacks: []

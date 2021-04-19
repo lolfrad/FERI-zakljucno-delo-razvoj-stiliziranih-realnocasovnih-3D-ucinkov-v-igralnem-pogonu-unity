@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="shockwave.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.46666 135.46667"
+   height="512"
+   width="512">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2000">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1996" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1998" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2000"
+       id="radialGradient2002"
+       cx="68.03933"
+       cy="68.41011"
+       fx="68.03933"
+       fy="68.41011"
+       r="65.413099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97449216,0,0,1,1.7355364,0)" />
+    <filter
+       height="1.3277883"
+       y="-0.16389414"
+       width="1.3277883"
+       x="-0.16389414"
+       id="filter1573"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1575"
+         stdDeviation="5.778103"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.5061614"
+       y="-0.25308069"
+       width="1.5061614"
+       x="-0.25308069"
+       id="filter1745"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1747"
+         stdDeviation="8.9223832"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     units="px"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1974"
+     inkscape:window-height="1057"
+     inkscape:window-width="1858"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="278.08351"
+     inkscape:cx="1337.4559"
+     inkscape:zoom="0.7135732"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#202020"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g2153"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\shockwave.png"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-ydpi="126.494">
+      <circle
+         r="55.8438"
+         cx="68.03933"
+         cy="68.41011"
+         id="path1976"
+         style="fill:none;fill-opacity:1;stroke:url(#radialGradient2002);stroke-width:19.1386;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.67952;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers"
+         id="circle2004"
+         r="45.106964"
+         cy="68.41011"
+         cx="68.03933" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:url(#radialGradient2002);stroke-width:19.1386;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle2146"
+         cy="68.41011"
+         cx="68.03933"
+         r="55.8438" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.67952;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers"
+       id="circle1438"
+       r="45.106964"
+       cy="68.41011"
+       cx="245.27684" />
+    <circle
+       transform="matrix(1.033674,0,0,1.033674,-8.25945,-2.3036415)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1451"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)"
+       id="circle1591"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(1.033674,0,0,1.033674,-8.25945,-2.3036415)" />
+    <circle
+       transform="matrix(1.033674,0,0,1.033674,-8.25945,-2.3036415)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1593"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)"
+       id="circle1595"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(1.033674,0,0,1.033674,-8.25945,-2.3036415)" />
+    <circle
+       transform="matrix(1.033674,0,0,1.033674,-8.25945,-2.3036415)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1597"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1745)"
+       id="circle1599"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(0.71379981,0,0,0.71379981,70.198281,19.578988)" />
+    <circle
+       transform="matrix(0.71961882,0,0,0.71961882,68.771012,19.180909)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1749"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1745)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       cx="392.4791"
+       cy="68.41011"
+       r="45.106964"
+       id="circle1751"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.67952;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)"
+       id="circle1753"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(1.033674,0,0,1.033674,138.9428,-2.3036415)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       transform="matrix(1.033674,0,0,1.033674,138.9428,-2.3036415)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1755"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)"
+       id="circle1757"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(1.033674,0,0,1.033674,138.9428,-2.3036415)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       transform="matrix(1.033674,0,0,1.033674,138.9428,-2.3036415)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1759"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1573)"
+       id="circle1761"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(1.033674,0,0,1.033674,138.9428,-2.3036415)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       transform="matrix(0.71379981,0,0,0.71379981,217.40053,19.578988)"
+       cx="245.27684"
+       cy="68.41011"
+       r="42.30611"
+       id="circle1763"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1745)" />
+    <circle
+       inkscape:export-ydpi="126.494"
+       inkscape:export-xdpi="126.494"
+       inkscape:export-filename="D:\FERI\3.letnik\DIPLOMSKA\VFX Project\vfx-project\art\Export\Particles\Shockwave2.png"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.51314;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.719723;paint-order:stroke fill markers;filter:url(#filter1745)"
+       id="circle1765"
+       r="42.30611"
+       cy="68.41011"
+       cx="245.27684"
+       transform="matrix(0.71961882,0,0,0.71961882,215.97326,19.180909)" />
+  </g>
+</svg>
