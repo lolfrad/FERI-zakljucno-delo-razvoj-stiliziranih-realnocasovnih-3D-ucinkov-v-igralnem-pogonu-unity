@@ -1,1 +1,1 @@
-# Creation-of-3D-stylized-visual-effects-in-the-Unity-game-engine
+Diplomsko zaključno delo na Fakulteti za elektrotehniko računalništvo in informatiko
