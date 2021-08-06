@@ -82,18 +82,17 @@ public class FragmentLevitation : MonoBehaviour
 
     private float ProgressToPoint(Vector3 point)
     {
-        //find and return percentage of current progress through levitation position
         float distance = Vector3.Distance(positionMin, positionMax);
         float progress = Vector3.Distance(transform.position - originalPosition, point);
 
         float percent = progress / distance;
 
+        Debug.Log("distance:"+distance+", progress:"+progress+", percent:" + percent);
         return percent;
     }
 
     private IEnumerator startAnim()
     {
-        //animate levitation through tweening
         transform.DOMove(nextPos, animationTime, false).SetEase(Ease.InOutSine);
 
         yield return new WaitForSeconds(animationTime);

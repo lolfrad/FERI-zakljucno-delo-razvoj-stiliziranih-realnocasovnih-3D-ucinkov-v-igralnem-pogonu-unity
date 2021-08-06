@@ -8,7 +8,6 @@ public class FirePoof : MonoBehaviour
 
     private void Update()
     {
-        //rotate fire to face camera as a billboard
         transform.LookAt(Camera.main.transform);
         transform.eulerAngles = new Vector3(transform.rotation.eulerAngles.x + rotationAdd.x, transform.rotation.eulerAngles.y + rotationAdd.y, transform.rotation.eulerAngles.z + rotationAdd.z);
     }
